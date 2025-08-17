@@ -17,9 +17,9 @@ Features
 
 Technologies
 
-C programming language
-File handling in C for persistent storage
-Modular structure with multiple .c and .h files
+- C programming language
+- File handling in C for persistent storage
+- Modular structure with multiple .c and .h files
 
 How to Run
 
